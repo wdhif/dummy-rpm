@@ -5,7 +5,7 @@ Version:    0.0.1
 Release:    noop
 Summary:    A fake RPM
 License:    AGPLv3+
-Source0:    dummy.tar.bz2
+Source0:    dummy-rpm.tar.bz2
 BuildArch:  noarch
 
 %description
