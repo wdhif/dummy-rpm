@@ -7,6 +7,7 @@ Summary:    A fake RPM
 License:    AGPLv3+
 Source0:    dummy-rpm.tar.bz2
 BuildArch:  noarch
+BuildRoot:  $DOCKER_VOLUME
 
 %description
 A fake RPM
